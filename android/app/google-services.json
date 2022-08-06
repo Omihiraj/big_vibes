@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1050127304263",
+    "project_id": "big-vibes",
+    "storage_bucket": "big-vibes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050127304263:android:cc0905eacfb7ce9fcd5362",
+        "android_client_info": {
+          "package_name": "com.example.big_vibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050127304263-g7eqgfmkb1e1um0pfbvlqldm0fn4k9on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClK6fTJ9wqIEVcHbSCum5gIqBhzCqHAXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050127304263-g7eqgfmkb1e1um0pfbvlqldm0fn4k9on.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050127304263-im67nq1oenng8i0oa7fgactb5ntgckm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bigVibes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
